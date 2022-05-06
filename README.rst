@@ -23,7 +23,7 @@ Changelog
 
 Please send an email to ``yingzu AT sjtu.edu.cn`` if you have any questions.
 
-    JAVELIN2 works under Python 2, and please go to `JAVELIN <https://github.com/nye17/javelin>`_ for new version that is compatible with Python 3.
+    JAVELIN2 only works under Python 2, and please go to `JAVELIN <https://github.com/nye17/javelin>`_ for the new version that is compatible with Python 3.
 
     *Version 0.34* includes the new DPmap_Model method, which is an extension of
     the Pmap_model that works with two lagged-components in the line-band,
